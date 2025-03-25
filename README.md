@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">→ Heey!! 😸 Welcome to my profile.<br><br>I’m Ana, student in the field of programming.<br><br>🎨 Passionate about art and new creations!<br><br>🎉 I’m currently learning systems development.<br><br>😄 Pronouns: she/he.<br><br>🎭 Intending to focus on the design area.<br><br>≽^•⩊•^≼ ฅ ~</h3>
+<h3 align="center">→ Heey!! 😸 Welcome to my profile. I’m Ana, student in the field of programming.<br><br>🎨 Passionate about art and new creations!<br><br>🎉 I’m currently learning systems development.<br><br>😄 Pronouns: she/he.<br><br>🎭 Intending to focus on the design area.<br><br>≽^•⩊•^≼ ฅ ~</h3>
 
 ###
 
